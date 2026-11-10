@@ -1,1 +1,0 @@
-from dagster_demo.assets import defs
